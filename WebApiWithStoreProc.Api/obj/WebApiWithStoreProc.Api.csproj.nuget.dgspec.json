@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\apiAdoStore\\WebApiWithStoreProc\\WebApiWithStoreProc.Api\\WebApiWithStoreProc.Api.csproj": {}
+    "F:\\WebApiWithStoreProcedureAndJWTaca\\WebApiWithStoreProc.Api\\WebApiWithStoreProc.Api.csproj": {}
   },
   "projects": {
-    "F:\\apiAdoStore\\WebApiWithStoreProc\\WebApiWithStoreProc.Api\\WebApiWithStoreProc.Api.csproj": {
+    "F:\\WebApiWithStoreProcedureAndJWTaca\\WebApiWithStoreProc.Api\\WebApiWithStoreProc.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\apiAdoStore\\WebApiWithStoreProc\\WebApiWithStoreProc.Api\\WebApiWithStoreProc.Api.csproj",
+        "projectUniqueName": "F:\\WebApiWithStoreProcedureAndJWTaca\\WebApiWithStoreProc.Api\\WebApiWithStoreProc.Api.csproj",
         "projectName": "WebApiWithStoreProc.Api",
-        "projectPath": "F:\\apiAdoStore\\WebApiWithStoreProc\\WebApiWithStoreProc.Api\\WebApiWithStoreProc.Api.csproj",
+        "projectPath": "F:\\WebApiWithStoreProcedureAndJWTaca\\WebApiWithStoreProc.Api\\WebApiWithStoreProc.Api.csproj",
         "packagesPath": "C:\\Users\\Yasir Arafat\\.nuget\\packages\\",
-        "outputPath": "F:\\apiAdoStore\\WebApiWithStoreProc\\WebApiWithStoreProc.Api\\obj\\",
+        "outputPath": "F:\\WebApiWithStoreProcedureAndJWTaca\\WebApiWithStoreProc.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yasir Arafat\\AppData\\Roaming\\NuGet\\NuGet.Config",
